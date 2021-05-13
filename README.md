@@ -10,4 +10,4 @@ Download V1 ➤ [Clover Config Validator.zip](https://github.com/chris1111/Clove
 
 View full Video ⬇︎
 
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/yqNXI15lL9w)
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/118173318-6a820080-b3fb-11eb-9ba5-203165fb6f26.png)](https://youtu.be/yqNXI15lL9w)
