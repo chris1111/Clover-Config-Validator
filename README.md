@@ -5,6 +5,7 @@
 
 ### Credit: Clover team 
 ### Credit: [Jief_Machak](https://github.com/jief666)
+### Credit: [Create from Platypus](https://sveinbjorn.org/platypus)
 
 Download V1 ➤ [Clover Config Validator.zip](https://github.com/chris1111/Clover-Config-Validator/releases/tag/V1)
 
