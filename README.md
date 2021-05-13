@@ -4,9 +4,9 @@
 ### Gatekeeper must be disable to using this.
 
 ### Credit: Clover team 
-### Credit: Jief_Machak[Jief_Machak](https://github.com/jief666)
+### Credit: [Jief_Machak](https://github.com/jief666)
 
-Download V1 ➤ [Clover Config Validator.zip]()
+Download V1 ➤ [Clover Config Validator.zip](https://github.com/chris1111/Clover-Config-Validator/releases/tag/V1)
 
 View full Video ⬇︎
 
