@@ -13,17 +13,17 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 # Vars
-apptitle="Clover Config Validateur"
+apptitle="Clover Config Validator"
 version="1.0"
 echo " "
 echo "
 ******************************************************
-Clover Config.Plist Validateur
-Faites glisser le fichier config.plist pour le vérifier 
+Clover Config.Plist Validator
+Drag config.plist file to verify it
 ******************************************************"
 # Set Droping directory and file
 for files in "$@" ;do
-echo "Début de la vérification:"
+echo "Start of verification:"
 Sleep 1
 osascript -e 'do shell script "afplay './Hero.aiff' &> /dev/null &"'
 ./CloverConfigPlistValidator "$@" 
