@@ -9,6 +9,7 @@
 
 ### Download V1 ➤ [Clover Config Validator.zip](https://github.com/chris1111/Clover-Config-Validator/releases/tag/V1)
 
-View full Video ⬇︎
+Video ⬇︎
 
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/118173318-6a820080-b3fb-11eb-9ba5-203165fb6f26.png)](https://youtu.be/yqNXI15lL9w)
+https://user-images.githubusercontent.com/6248794/140169352-60b79390-5b6e-45bb-becc-ce3722b808c1.mov
+
