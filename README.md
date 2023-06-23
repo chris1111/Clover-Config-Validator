@@ -1,6 +1,9 @@
 ## Clover Config Validator
 - Update 23 June 2023 , Update App and Validator
 
+![Screenshot](https://github.com/chris1111/Clover-Config-Validator/assets/6248794/1ed04e93-8fa4-45d4-9687-ae4293836d1e)
+
+
 #### Simple macOS Appplication sanity check config.plist Clover
 ### Gatekeeper must be disable to using this.
 
