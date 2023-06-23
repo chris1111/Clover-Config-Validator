@@ -1,6 +1,6 @@
 #!/bin/sh
 # Clover Config Validator
-# Copyright (c) 2021, chris1111. All Right Reserved
+# Copyright (c) 2021, 2023 chris1111. All Right Reserved
 # Credit: Jief_Machak
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
@@ -14,7 +14,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 # Vars
 apptitle="Clover Config Validator"
-version="1.0"
+version="1.2"
 echo " "
 echo "
 ******************************************************
@@ -26,7 +26,15 @@ for files in "$@" ;do
 echo "Start of verification:"
 Sleep 1
 osascript -e 'do shell script "afplay './Hero.aiff' &> /dev/null &"'
-./CloverConfigPlistValidator "$@" 
+
+# Activate App
+osascript <<EOD
+  tell application "Clover Config Validator"
+      activate
+  end tell
+EOD
+Sleep 2
+./CloverConfigPlistValidator -v "$@" 
 
 done
 

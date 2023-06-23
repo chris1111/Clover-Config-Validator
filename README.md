@@ -1,4 +1,5 @@
 ## Clover Config Validator
+- Update 23 June 2023 , Update App and Validator
 
 #### Simple macOS Appplication sanity check config.plist Clover
 ### Gatekeeper must be disable to using this.
@@ -7,7 +8,7 @@
 ##### Credit: [Jief_Machak](https://github.com/jief666)
 ##### Credit: [Create from Platypus](https://sveinbjorn.org/platypus)
 
-### Download V1 ➤ [Clover Config Validator.zip](https://github.com/chris1111/Clover-Config-Validator/releases/tag/V1)
+### Download V2 ➤ [Clover Config Validator.zip](https://github.com/chris1111/Clover-Config-Validator/releases/tag/V2)
 
 Video ⬇︎
 
